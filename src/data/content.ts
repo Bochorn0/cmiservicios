@@ -7,7 +7,7 @@ export const company = {
   closing: "Ideas, proyectos, soluciones en acción",
   phone: "662 404 3088",
   phoneHref: "tel:+526624043088",
-  email: "administracion@tiwater.mx",
+  email: "administracion@cmiservicios.mx",
   location: "Hermosillo, Sonora",
 };
 
